@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
 ---
@@ -55,20 +57,6 @@ This course can be applied toward a Bachelor of Science in [Women’s and Gender
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Small classroom with chalkboard lined walls and a single long table in the center lined with chairs.]({{< resource_file d4a2d6c3-5249-d586-dcfc-ed6df9a839fc >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom with one large table to facilitate discussion, an AV system, and chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

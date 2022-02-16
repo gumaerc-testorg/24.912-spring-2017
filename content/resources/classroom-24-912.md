@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-912-black-matters-introduction-to-black-studies-spring-2017/d4a2d6c35249d586dcfced6df9a839fc_classroom-24-912.jpg
+file: /media/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/d4a2d6c35249d586dcfced6df9a839fc_classroom-24-912.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: classroom-24-912.jpg
 uid: d4a2d6c3-5249-d586-dcfc-ed6df9a839fc

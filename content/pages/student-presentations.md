@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Student Presentations
 uid: 4221dc69-ff75-ca0a-ea59-69510fe3a970
 ---

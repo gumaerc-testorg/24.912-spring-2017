@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-912-black-matters-introduction-to-black-studies-spring-2017/7612c1c2437479c52b7ae521f655f0a2_MIT24_912s17_chomsky_mortality.pdf
+file: /media/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/7612c1c2437479c52b7ae521f655f0a2_MIT24_912s17_chomsky_mortality.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Chart on black infant mortality
 uid: 7612c1c2-4374-79c5-2b7a-e521f655f0a2

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: aa0d9596-85ed-13eb-a90d-6eada6b7431f
 resourcetype: Image
 title: DVD cover
 uid: e81f64b7-12a0-fd1a-a675-84665de663a7

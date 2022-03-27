@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e393895e-f4cd-10d1-90cb-ed9fb80b9c63
 resourcetype: Document
 title: Notes on Neo-Liberalism
 uid: 6277496f-9515-438b-d549-9a846195bcd1

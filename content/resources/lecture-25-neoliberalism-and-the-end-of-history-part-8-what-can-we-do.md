@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Neoliberalism and the End of History - Part 8: What Can We Do?'
 uid: 372e8e47-223f-bc29-54dc-d8bdb7ac2d95
 video_files:

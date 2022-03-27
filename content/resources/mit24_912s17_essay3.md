@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 53eb06cd-7b3e-79fb-df11-1d7113543de6
 resourcetype: Document
 title: MIT24_912s17_essay3.pdf
 uid: fea65266-dc2a-d1f2-c250-03b70b4587cc

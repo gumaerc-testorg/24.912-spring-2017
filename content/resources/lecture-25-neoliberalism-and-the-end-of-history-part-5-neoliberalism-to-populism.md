@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Neoliberalism and the End of History - Part 5: Neoliberalism to
   Populism'
 uid: 5a5f0b0e-a92c-bd26-ddfc-3675b4376273

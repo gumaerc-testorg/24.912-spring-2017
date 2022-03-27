@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e393895e-f4cd-10d1-90cb-ed9fb80b9c63
 resourcetype: Document
 title: Noam Chomksy on the Future of Humanity
 uid: 14fd3dc9-2c58-480d-fa32-bd4fbc3f51aa

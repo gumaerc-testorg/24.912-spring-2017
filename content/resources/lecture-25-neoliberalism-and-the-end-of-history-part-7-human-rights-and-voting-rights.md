@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Neoliberalism and the End of History - Part 7: Human Rights and
   Voting Rights'
 uid: 1d4acf6a-d6c1-8e57-55ad-5bd39af18921

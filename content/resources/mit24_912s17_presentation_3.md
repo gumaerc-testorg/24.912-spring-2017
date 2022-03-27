@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Presentations
 parent_type: CourseSection
+parent_uid: 4221dc69-ff75-ca0a-ea59-69510fe3a970
 resourcetype: Document
 title: Presentation 3
 uid: 8231d01e-67d3-a882-6a40-18589d6d6b0a

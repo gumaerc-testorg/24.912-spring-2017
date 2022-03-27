@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e393895e-f4cd-10d1-90cb-ed9fb80b9c63
 resourcetype: Document
 title: Chart on black infant mortality
 uid: 7612c1c2-4374-79c5-2b7a-e521f655f0a2

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Neoliberalism and the End of History - Part 3: Enlightenment,
   Neoliberalism and Racism'
 uid: 4f9809c4-fb0c-8b86-86ae-0e088bad9674

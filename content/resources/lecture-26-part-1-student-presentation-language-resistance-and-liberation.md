@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 26, Part 1: Student Presentation "Language, Resistance and Liberation"'
 uid: 382797eb-5dd6-2086-5f6a-1a94b303cdc0
 video_files:

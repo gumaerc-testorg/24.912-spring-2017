@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Noam Chomsky explains how there are many opportunities now to organize and take action, and how that can be an antidote to the social control exterted by free-market and advertising forces.
 
 **Instructors:** Noam Chomsky and Michel DeGraff
+
+
+

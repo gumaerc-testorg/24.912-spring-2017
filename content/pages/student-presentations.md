@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents slides from selected student presentations on the
+  assigned class readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Presentations
@@ -10,17 +12,17 @@ At each class meeting one or more students (depending on class size) will be res
 
 Following are selected presentation slides, courtesy of MIT students and used with permission.
 
-[Interrogating Erasure: Moving Past the Forces of Forgetting (PDF)]({{< baseurl >}}/resources/mit24_912s17_pres1)
+{{% resource_link df1603fc-d1bb-de60-5c86-b5303da1754c "Interrogating Erasure: Moving Past the Forces of Forgetting (PDF)" %}}
 
-[Thinking Through The Unthinkable: The Haitian Revolution (PDF)]({{< baseurl >}}/resources/mit24_912s17_presentation_2)
+{{% resource_link 4897b367-ab90-6c90-6022-6a8d3febbefb "Thinking Through The Unthinkable: The Haitian Revolution (PDF)" %}}
 
-[The Heroic Slave and the Introduction to Benito Cereno (PDF - 1.4MB)]({{< baseurl >}}/resources/mit24_912s17_presentation_3)
+{{% resource_link 8231d01e-67d3-a882-6a40-18589d6d6b0a "The Heroic Slave and the Introduction to Benito Cereno (PDF - 1.4MB)" %}}
 
-[Politics of Language & (mis)education in the U.S. & the Carribean (PDF)]({{< baseurl >}}/resources/mit24_912s17_presentation_4)
+{{% resource_link 1c773808-c5ef-89f4-ba54-0cd6400bf328 "Politics of Language & (mis)education in the U.S. & the Carribean (PDF)" %}}
 
-[Immigration, Politics and Elections (PDF - 1.1MB)]({{< baseurl >}}/resources/mit24_912s17_presentation_5)
+{{% resource_link cf98b77f-c591-0452-3de8-a07a2512e77f "Immigration, Politics and Elections (PDF - 1.1MB)" %}}
 
-[Language, Resistance, & Liberation (PDF)]({{< baseurl >}}/resources/mit24_912s17_presentation_6)  
-See also [video]({{< baseurl >}}/resources/lecture-26-part-1-student-presentation-language-resistance-and-liberation) of this presentation:
+{{% resource_link 9b214c2e-8966-01b2-9bf9-6a8d8adb16c8 "Language, Resistance, & Liberation (PDF)" %}}  
+See also {{% resource_link 382797eb-5dd6-2086-5f6a-1a94b303cdc0 "video" %}} of this presentation:
 
- [![Thumbnail from video of two students speaking in front of the class.]({{< resource_file 2419cc8c-915f-7231-b8ff-899193a8a55b >}})]({{< baseurl >}}/resources/lecture-26-part-1-student-presentation-language-resistance-and-liberation)
+ {{< resource uuid="2419cc8c-915f-7231-b8ff-899193a8a55b" href_uuid="382797eb-5dd6-2086-5f6a-1a94b303cdc0" >}}

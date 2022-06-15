@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** In this example of a student presentation on assigned class readings, students explore how language discrimination intersects with literacy and liberation.
 
 **Instructors:** MIT Students
+
+
+

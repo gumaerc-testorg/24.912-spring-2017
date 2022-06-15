@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Cover of I am Not Your Negro by Raoul Peck
-file: /media/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/e81f64b712a0fd1aa67584665de663a7_ianyn.jpg
+file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/e81f64b712a0fd1aa67584665de663a7_ianyn.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Cover of 'I am Not Your Negro' by Raoul Peck
@@ -16,3 +16,5 @@ resourcetype: Image
 title: DVD cover
 uid: e81f64b7-12a0-fd1a-a675-84665de663a7
 ---
+Cover of I am Not Your Negro by Raoul Peck
+

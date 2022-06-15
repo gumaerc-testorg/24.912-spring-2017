@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page presents videos of selected class sessions, including a guest
+  lecture by Noam Chomsky.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

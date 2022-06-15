@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** At the end of the course, students discuss with Professor DeGraff what they learned and how the course could be improved.
 
 **Instructors:** Michel Degraff and MIT Students
+
+
+

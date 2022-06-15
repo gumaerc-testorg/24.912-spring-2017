@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/14fd3dc92c58480dfa32bd4fbc3f51aa_MIT24_912s17_chomsky_future.pdf
+file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/14fd3dc92c58480dfa32bd4fbc3f51aa_MIT24_912s17_chomsky_future.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

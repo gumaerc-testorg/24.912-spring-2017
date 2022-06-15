@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Noam Chomsky highlights how how mainstream establishment institutions are being destroyed by social forces incubated in neoliberalism. He also foretells 2018's scandal with Cambridge Analytica, Facebook data and political ads.
 
 **Instructors:** Noam Chomsky and Michel DeGraff
+
+
+

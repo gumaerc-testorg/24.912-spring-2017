@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Michel DeGraff introduces this session, in which Noam Chomsky answers student questions about how to bridge knowledge into action in the world, to try to make it better.
 
 **Instructors:** Noam Chomsky and Michel DeGraff
+
+
+

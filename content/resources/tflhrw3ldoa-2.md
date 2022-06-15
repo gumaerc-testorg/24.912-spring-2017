@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/b73f8a3227695129b5887931866aac9f_TFLHRW3ldOA.vtt
+file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/b73f8a3227695129b5887931866aac9f_TFLHRW3ldOA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

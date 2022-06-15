@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page summarizes the course objectives.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +20,7 @@ None
 Course Description
 ------------------
 
-![Cover of "I am Not Your Negro" by Raoul Peck]({{< resource_file e81f64b7-12a0-fd1a-a675-84665de663a7 >}})
+{{< resource e81f64b7-12a0-fd1a-a675-84665de663a7 >}}
 
 © Velvet Film, Artemis Productions and Close Up Films. All rights reserved. This content is [excluded from our Creative Commons license](/help/faq-fair-use/).
 

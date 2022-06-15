@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Noam Chomsky takes a closer look at current US politics through the 2016 US elections, the "populist wave," and the grassroots financing of Bernie Sanders' campaign.
 
 **Instructors:** Noam Chomsky and Michel DeGraff
+
+
+

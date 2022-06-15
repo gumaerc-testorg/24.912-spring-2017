@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Noam Chomsky reviews the long history of opposition to immigrants, and how anti-immigrant campaigns have played out in the U.S., Europe, Russia and Japan.
 
 **Instructors:** Noam Chomsky and Michel DeGraff
+
+
+

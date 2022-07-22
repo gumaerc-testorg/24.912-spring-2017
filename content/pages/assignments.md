@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This page describes the essay assignments and includes a grading rubric. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 53eb06cd-7b3e-79fb-df11-1d7113543de6
 ---
@@ -8,11 +12,11 @@ At each class meeting one or more students (depending on class size) will be res
 
 You will be required to write 3 essays this semester and 1 revision essay, which will be equivalent to a fourth essay. All essays will necessitate close reading of texts — with, in some cases, special attention to language related issues.
 
-[Essay 1 Guidelines (PDF)]({{< baseurl >}}/resources/mit24_912s17_essay1)
+{{% resource_link 7e0463a4-2499-133f-065d-7c28de59e1d7 "Essay 1 Guidelines (PDF)" %}}
 
-[Essay 2 Guidelines (PDF)]({{< baseurl >}}/resources/mit24_912s17_essay2)
+{{% resource_link a79322f7-2c5f-ea8f-ba33-f88be2819e33 "Essay 2 Guidelines (PDF)" %}}
 
-[Essay 3 Guidelines (PDF)]({{< baseurl >}}/resources/mit24_912s17_essay3)
+{{% resource_link fea65266-dc2a-d1f2-c250-03b70b4587cc "Essay 3 Guidelines (PDF)" %}}
 
 Grading
 -------

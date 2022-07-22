@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This page presents videos of selected class sessions, including a guest
+  lecture by Noam Chomsky.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Videos
 uid: 937532cd-8391-09b9-eacc-92b56e08aa42
 videos:

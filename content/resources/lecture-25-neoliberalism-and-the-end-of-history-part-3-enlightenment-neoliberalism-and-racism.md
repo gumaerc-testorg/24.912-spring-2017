@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Noam Chomsky explains how the 16th century European Enlightenment gave birth to widespread racism, and neoliberal policies have strengthened racism in recent decades.
 
 **Instructors:** Noam Chomsky and Michel DeGraff
-
-
 

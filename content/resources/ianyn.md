@@ -8,6 +8,7 @@ image_metadata:
   credit: "\xA9 Velvet Film, Artemis Productions and Close Up Films"
   image-alt: Cover of 'I am Not Your Negro' by Raoul Peck
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: DVD cover
 uid: e81f64b7-12a0-fd1a-a675-84665de663a7
 ---
 Cover of I am Not Your Negro by Raoul Peck
-

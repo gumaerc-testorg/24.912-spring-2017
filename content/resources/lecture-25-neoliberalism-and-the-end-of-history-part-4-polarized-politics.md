@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Noam Chomsky describes the roots of the increased polarization in US politics, starting with racism encoded into the New Deal, and leading into today's political and media figures.
 
 **Instructors:** Noam Chomsky and Michel DeGraff
-
-
 

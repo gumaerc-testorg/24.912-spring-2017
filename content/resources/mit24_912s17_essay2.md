@@ -5,6 +5,7 @@ file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/a7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT24_912s17_essay2.pdf
 uid: a79322f7-2c5f-ea8f-ba33-f88be2819e33
 ---
 Second essay guidelines for 24.912 Black Matters S17
-

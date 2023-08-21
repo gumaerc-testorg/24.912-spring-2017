@@ -35,3 +35,53 @@ leftnav:
   name: Student Presentations
   url: /pages/student-presentations
   weight: 90
+- identifier: 80e2be4e-ae3d-5248-7177-57645d9798fc
+  name: An Interdisciplinary Approach
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/an-interdisciplinary-approach
+  weight: 10
+- identifier: 19ad9470-e1f1-7224-3655-d06b52e8aac6
+  name: Political Context for the Course
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/political-context-for-the-course
+  weight: 20
+- identifier: 29083557-ed2b-f83e-5bf4-d8a0474b1917
+  name: Framing Cultural Phenomena as Technologies
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/framing-cultural-phenomena-as-technologies
+  weight: 30
+- identifier: f3ed2f9a-ae59-59bd-b0fc-10dd726a3d5c
+  name: 'Anchoring the Course with #StayWoke'
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/anchoring-the-course-with-staywoke
+  weight: 40
+- identifier: c5d291c0-c74b-239a-48c9-6b261f8524fe
+  name: Leveraging the Humanities to Break Walls and Build Bridges
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/leveraging-the-humanities-to-break-walls-and-build-bridges
+  weight: 50
+- identifier: 00cd3baf-54a9-c9e2-53a7-ffe9eb30b2d7
+  name: Advancing Social Justice
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/advancing-social-justice
+  weight: 60
+- identifier: f0e13c21-7b8f-e433-6ccc-6f500d1985c0
+  name: Critical Computational Empowerment
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/critical-computational-empowerment
+  weight: 70
+- identifier: 347ce05f-ea26-112f-8dd8-a842a566d16e
+  name: Building on the Personal
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/building-on-the-personal
+  weight: 80
+- identifier: 25a76a35-4146-99f5-6c5c-9bf0e1137e9f
+  name: Teaching a Wider Audience
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/teaching-a-wider-audience
+  weight: 90
+- identifier: 46d9cf19-f28c-cb05-acaf-71a432625473
+  name: Unlocking Knowledge through MIT OpenCourseWare
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  url: /resources/unlocking-knowledge-through-mit-opencourseware
+  weight: 100

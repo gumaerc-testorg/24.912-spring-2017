@@ -43,6 +43,7 @@
     "WGS",
     "21H",
     "21L",
+    "CMS-W",
     "21M",
     "21A"
   ],
@@ -55,8 +56,10 @@
   "learning_resource_types": [
     "Written Assignments",
     "Presentation Assignments with Examples",
-    "Lecture Videos"
+    "Lecture Videos",
+    "Instructor Insights"
   ],
-  "site_uid": "b0b53029-4b09-4bc8-98f6-1133e3d0105a",
+  "site_uid": "0390231b-8bff-48aa-ab3f-6dd541665b9d",
+  "site_short_id": "24.912-spring-2017",
   "title": "Course Metadata"
 }

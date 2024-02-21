@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/2419cc8c915f7231b8ff899193a8a55b_MIT24_912S17_pres_thumb.jpg
+file_size: 2776
 file_type: image/jpeg
 image_metadata:
   caption: ''

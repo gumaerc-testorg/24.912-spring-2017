@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/d4a2d6c35249d586dcfced6df9a839fc_classroom-24-912.jpg
+file_size: 10342
 file_type: image/jpeg
 image_metadata:
   caption: ''

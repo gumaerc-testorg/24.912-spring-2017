@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/68e487397b34526612a601e80aaf9cea_aSk7YbhON_0.pdf
+file_size: 23474
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

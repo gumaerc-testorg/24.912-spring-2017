@@ -2,6 +2,7 @@
 content_type: resource
 description: Second essay guidelines for 24.912 Black Matters S17
 file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/a79322f72c5fea8fba33f88be2819e33_MIT24_912s17_essay2.pdf
+file_size: 106686
 file_type: application/pdf
 learning_resource_types:
 - Assignments

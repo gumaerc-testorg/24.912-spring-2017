@@ -34,11 +34,11 @@ supplemental Material
 *No readings*
 {{< tdclose >}}{{< tdopen >}}
 
-Louise Bennett video: {{% resource_link "978d896f-991b-48ec-b97b-aeb46c2bed76" "Miss Lou (Part 3) JAMAICA LANGUAGE" %}}
+Louise Bennett video: [Miss Lou (Part 3) JAMAICA LANGUAGE](https://www.youtube.com/watch?v=0ZjPeMGiOpk)
 
-"{{% resource_link "60e25141-0ac3-44ee-970e-edc5f537cd45" "Discourse on Language" %}}" by M. Nourbese Philip from She Tries Her Tongue
+"[Discourse on Language](https://www.youtube.com/watch?v=424yF9eqBsE)" by M. Nourbese Philip from She Tries Her Tongue
 
-{{% resource_link "4a3b5027-59e2-4a4d-b1d7-65961c83f5de" "Language Prejudice: Are you being judged by the way you speak?" %}} By Wendy Wei
+[Language Prejudice: Are you being judged by the way you speak?](https://www.youtube.com/watch?v=_NjxrXWaSJk&feature=share) By Wendy Wei
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2: What's linguistics? Language: A proxy for race and identity?
@@ -72,14 +72,14 @@ Public service announcement videos about linguistic profiling
 4: Black Lives Matter. And Black Languages Matter
 {{< tdclose >}}{{< tdopen >}}
 
-Baldwin, James. "{{% resource_link "66d025a7-6da9-4547-be2f-1566b1c934be" "If Black English Isn't a Language, Then Tell Me, What Is" %}}?" *The Black Scholar* 27, no. 1 (1997): 5–6.
+Baldwin, James. "[If Black English Isn't a Language, Then Tell Me, What Is](http://www.tandfonline.com/doi/pdf/10.1080/00064246.1997.11430831)?" *The Black Scholar* 27, no. 1 (1997): 5–6.
 
-Rickford, John R., and Sharese King. "{{% resource_link "d0a9f136-a9b7-4e9d-b100-bf94bf58bc6f" "Language and Linguistics on Trial: Hearing Rachel Jeantel (And Other Vernacular Speakers) in the Courtroom and Beyond" %}}." *Language* 92, no. 4 (2016): 948–988.
+Rickford, John R., and Sharese King. "[Language and Linguistics on Trial: Hearing Rachel Jeantel (And Other Vernacular Speakers) in the Courtroom and Beyond](https://muse.jhu.edu/article/641206/summary)." *Language* 92, no. 4 (2016): 948–988.
 
-Bolotnikova, Marina: “{{% resource_link "a503be2f-3b18-4acb-a62a-a0ab55aca4c4" "Rachel Jeantel’s Language Is English — It's Just Not Your English" %}}.” 2017. Accessed June 7, 2017.
+Bolotnikova, Marina: “[Rachel Jeantel’s Language Is English — It's Just Not Your English](https://mic.com/articles/52697/rachel-jeantel-s-language-is-english-it-s-just-not-your-english#.umV4jxMtx).” 2017. Accessed June 7, 2017.
 
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "dccbacb9-c783-4909-95b0-26c5fbafe4c0" "John Rickford's Stanford Open Office Hours on the Trayvon Martin trial and the impact of linguistic prejudice on social justice" %}}
+[John Rickford's Stanford Open Office Hours on the Trayvon Martin trial and the impact of linguistic prejudice on social justice](https://www.youtube.com/watch?v=Ig4iwkeLjpA&feature=youtu.be)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5: Are we what we speak? Relating language to issues of identity, (self-)identification, (mis-)identification, etc. in the U.S.
 {{< tdclose >}}{{< tdopen >}}
@@ -90,7 +90,7 @@ Alim, H. Samy, and Geneva Smitherman. *Articulate While Black: Barack Obama, Lan
 
 {{< tdclose >}}{{< tdopen >}}
 
-Film: {{% resource_link "05df79a4-6495-46d7-8eec-58eabda32dff" "American Tongues: A film about the way we talk" %}} (New York: Center for New American Media, 1987)
+Film: [American Tongues: A film about the way we talk](https://www.youtube.com/playlist?list=PL6089621A87373FBE) (New York: Center for New American Media, 1987)
 
 Why a Bible in Jamaican Creole ("Patois")?
 
@@ -118,9 +118,9 @@ Delany, Samuel R. "The Tale of Gorgik" in *Tales of Nevèrÿon*. Vol. 1. Open R
 8: Why Haiti matters? As an example of unthinkable (r)evolution where the "Black Lives Matter" movement started—avant la lettre
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "a1fcdbc6-63ac-4c39-9ab1-da1d8d7590f8" "Declaration of the Rights of Man and of the Citizen" %}}
+[Declaration of the Rights of Man and of the Citizen](https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen)
 
-{{% resource_link "810d3a87-0eaa-4394-ab1d-d31efec41883" "Code Noir" %}} 
+[Code Noir](https://en.wikipedia.org/wiki/Code_Noir) 
 
 \[Dubios\] "Introduction" and "Independence" in *Haiti: The Aftershocks of History*, pp. 1–51.
 
@@ -128,19 +128,19 @@ Trouillot, Michel-Rolph. *Silencing the Past: Power and Production of History*. 
 
 Optional:
 
-Jenson, Deborah. "{{% resource_link "62523094-e90c-44b9-b5de-869ccb119e5c" "Dessalines's American Proclamations of the Haitian Independence" %}}." *Journal of Haitian Studies* (2009): 72–102.
+Jenson, Deborah. "[Dessalines's American Proclamations of the Haitian Independence](http://www.jstor.org/stable/41715153?seq=1#page_scan_tab_contents)." *Journal of Haitian Studies* (2009): 72–102.
 
 {{< tdclose >}}{{< tdopen >}}
 
-PBS {{% resource_link "9d604d5d-b6fe-4994-a7d4-cee3619f3687" "Egalite for All: Toussaint Louverture and the Haitian Revolution" %}} (2009).
+PBS [Egalite for All: Toussaint Louverture and the Haitian Revolution](https://www.youtube.com/watch?v=IOGVgQYX6SU) (2009).
 
-{{% resource_link "c6e57d95-239c-4231-9a19-05047668da1b" "History of Haiti" %}}
+[History of Haiti](http://library.brown.edu/haitihistory/)
 
-{{% resource_link "224467ac-e533-426f-9101-5e6cdf4f468d" "The Other Revolution" %}} at John Carter Brown Library
+[The Other Revolution](http://www.brown.edu/Facilities/John_Carter_Brown_Library/exhibitions/haitian/) at John Carter Brown Library
 
-{{% resource_link "125b8112-70a6-4a0a-8574-8c1f1702b782" "The Haiti Collection" %}} at John Carter Brown Library
+[The Haiti Collection](https://archive.org/details/jcbhaiti) at John Carter Brown Library
 
-{{% resource_link "e7d1642c-0b3b-40e3-8f75-8e269bebdb8c" "First Readings 2010: The Dew Breaker by Edwidge Danticat" %}}
+[First Readings 2010: The Dew Breaker by Edwidge Danticat](http://library.brown.edu/firstreading2010/history.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9: Guest lecture: Professor Malick Ghachem (MIT History). Thinking through the "unthinkable": The Haitian Revolution among the great revolutions of the Atlantic world of the 18th century
@@ -166,7 +166,7 @@ Grandin, Greg. *The Empire of Necessity: Slavery, Freedom, and Deception in the 
 
 \[Melville\] pp. 109–141
 
-Beecher, Jonathan. “{{% resource_link "65c6da75-f191-46cc-93d3-b4bc55d781bc" "Echoes of Toussaint Louverture and the Haitian Revolution in Melville’s ‘Benito Cereno.’" %}}” *Leviathan* 9.2 (June 2007): 43–58
+Beecher, Jonathan. “[Echoes of Toussaint Louverture and the Haitian Revolution in Melville’s ‘Benito Cereno.’](https://muse.jhu.edu/article/492800/summary)” *Leviathan* 9.2 (June 2007): 43–58
 
 {{< tdclose >}}{{< tdopen >}}
 *No supplemental material*
@@ -176,7 +176,7 @@ Beecher, Jonathan. “{{% resource_link "65c6da75-f191-46cc-93d3-b4bc55d781bc" "
 
 \[Melville\] pp. 1–32
 
-Douglass, Frederick. "{{% resource_link "31e45996-ab59-4ad8-82de-900250f23e08" "The Heroic Slave in Autographs for Freedom" %}}." Edited by Julia Griffiths. 1853: 174–239.
+Douglass, Frederick. "[The Heroic Slave in Autographs for Freedom](http://docsouth.unc.edu/neh/douglass1853/douglass1853.html)." Edited by Julia Griffiths. 1853: 174–239.
 
 {{< tdclose >}}{{< tdopen >}}
 *No supplemental material*
@@ -187,7 +187,7 @@ The other "unthinkable": Vodou as religion
 
 Pilkey, Dav. 2001. *Ricky Ricotta’s Mighty Robot vs. the Voodoo Vultures from Venus: Giant Robot Vs. The Voodoo Vultures From Venus.* New York: Blue Sky Press. ISBN: 9780439236249.
 
-Mintz, Sidney, Michel-Rolph Trouillot. "{{% resource_link "8fa37ab8-e9bb-4099-852c-88c1bfef84a1" "Sacred Arts of Haitian Vodou (PDF - 6.6MB)." %}}" 1995. pp. 123–147.
+Mintz, Sidney, Michel-Rolph Trouillot. "[Sacred Arts of Haitian Vodou (PDF - 6.6MB).](http://ghettobiennale.org/files/Trouillot_Mintz_LOW.pdf)" 1995. pp. 123–147.
 
 Hawley, John Stratton. *Saints and Virtues*. Vol. 2. University of California Press, 1987. pp. 144–167.
 
@@ -197,9 +197,9 @@ Hawley, John Stratton. *Saints and Virtues*. Vol. 2. University of California Pr
 14: Guest lecture: Professor Erica Caple James (MIT Anthropology) Political Economy of trauma in Haiti and the politics of asylum
 {{< tdclose >}}{{< tdopen >}}
 
-James, Erica Caple. "{{% resource_link "47fa4288-bd72-47e0-a38e-cef279df3699" "Ruptures, Rights, and Repair: The Political Economy of Trauma in Haiti." %}}" *Social Science & Medicine* 70, no. 1 (2010): 106-113.
+James, Erica Caple. "[Ruptures, Rights, and Repair: The Political Economy of Trauma in Haiti.](https://www.sciencedirect.com/science/article/abs/pii/S0277953609006315)" *Social Science & Medicine* 70, no. 1 (2010): 106-113.
 
-James, Erica Caple. "{{% resource_link "d46b84ac-c4b4-4ebd-894f-2cab129e585c" "Haiti, Insecurity, and the Politics of Asylum." %}}" *Medical Anthropology Quarterly* 25, no. 3 (2011): 357-376.
+James, Erica Caple. "[Haiti, Insecurity, and the Politics of Asylum.](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1387.2011.01165.x/full)" *Medical Anthropology Quarterly* 25, no. 3 (2011): 357-376.
 
 Das, Veena, and Clara Han. "If You Remember, You Can't Live." Chapter 16 in *Living and Dying in the Contemporary World: A Compendium*. University of California Press, 2015. ISBN: 9780520278417.
 
@@ -210,36 +210,36 @@ Das, Veena, and Clara Han. "If You Remember, You Can't Live." Chapter 16 in *
 Building monuments with language: Translating the oral into the literary in Edwidge Danticat's The Farming of Bones
 {{< tdclose >}}{{< tdopen >}}
 
-Kurlansky, Mark, Julia Alvarez, Edwidge Danticat, and Junot Díaz. "{{% resource_link "d80f4490-66b6-4bb5-ba2e-8d3e4f6423a2" "In the Dominican Republic, Suddenly Stateless." %}}" *Los Angeles Times,* Nov. 10, 2013.
+Kurlansky, Mark, Julia Alvarez, Edwidge Danticat, and Junot Díaz. "[In the Dominican Republic, Suddenly Stateless.](http://articles.latimes.com/2013/nov/10/opinion/la-oe-kurlansky-haiti-dominican-republic-citizensh-20131110)" *Los Angeles Times,* Nov. 10, 2013.
 
-Dove, Rita. "{{% resource_link "3e426ca0-f7f8-4887-aab4-3662ec30e3b9" "Parsley" %}}." *Poetry Foundation* (1983).
+Dove, Rita. "[Parsley](https://www.poetryfoundation.org/poems-and-poets/poems/detail/43355)." *Poetry Foundation* (1983).
 
 \[Danticat\]
 
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "8afdd8f1-c588-4156-bc52-7b9cb60608db" "Haiti and the Dominican Republic: An Island Divided" %}}
+[Haiti and the Dominican Republic: An Island Divided](https://www.youtube.com/watch?v=6RlG4b3LV9o&feature=youtu.be)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16: Guest lecture: Professor John Tirman (MIT International Studies) Immigration, Politics and Elections (part 1)
 {{< tdclose >}}{{< tdopen >}}
 
-Peter Dizikes. “{{% resource_link "62769106-6cd2-4706-9548-f76d6b547fba" "Culture Clash" %}}” *MIT News*, May 3, 2015.
+Peter Dizikes. “[Culture Clash](http://news.mit.edu/2015/book-immigration-debates-0504)” *MIT News*, May 3, 2015.
 
-Cristina Rodriguez: “{{% resource_link "68051cf0-2773-478d-b809-dbc7ed511ea1" "Immigration, Civil Rights and the Formation of the People" %}},” *Daedalus* 142, no. 3 (2013): 228–241.
+Cristina Rodriguez: “[Immigration, Civil Rights and the Formation of the People](http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00229),” *Daedalus* 142, no. 3 (2013): 228–241.
 
-Nicholas de Genova: “{{% resource_link "ce1ad109-5440-4d95-b642-4efc5452c4a6" "The Legal Production of Mexican/Migrant ‘Illegality’ (PDF)" %}},” *Latino Studies* 2 (2004): 160–185.
+Nicholas de Genova: “[The Legal Production of Mexican/Migrant ‘Illegality’ (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.738.1356&rep=rep1&type=pdf),” *Latino Studies* 2 (2004): 160–185.
 
 ![Buy at MIT Press](/images/mp_logo.gif) Tirman, John. *Dream Chasers: Immigration and the American Backlash*. MIT Press, 2015. pp. 25–60.
 
-Leitner, Helga. "{{% resource_link "719b3981-4176-46d6-86bf-9b907c5ab784" "Spaces of Encounters: Immigration, Race, Class, and the Politics of Belonging in Small-Town America" %}}." *Annals of the Association of American Geographers* 102, no. 4 (2012): 828–846.
+Leitner, Helga. "[Spaces of Encounters: Immigration, Race, Class, and the Politics of Belonging in Small-Town America](http://www.tandfonline.com/doi/abs/10.1080/00045608.2011.601204)." *Annals of the Association of American Geographers* 102, no. 4 (2012): 828–846.
 
-Breen, Michael J., Eoin Devereux, and Amanda Haynes. "{{% resource_link "494127c9-49bc-4a42-a267-218dac1c3650" "Fear, Framing and Foreigners: The Othering of Immigrants in the Irish Print Media" %}}." (2006).
+Breen, Michael J., Eoin Devereux, and Amanda Haynes. "[Fear, Framing and Foreigners: The Othering of Immigrants in the Irish Print Media](https://dspace.mic.ul.ie/handle/10395/1350)." (2006).
 
 {{< tdclose >}}{{< tdopen >}}
 *No supplemental material*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17: Guest lecture: Professor John Tirman (MIT International Studies) Immigration, Politics and Elections (part 2)
 {{< tdclose >}}{{< tdopen >}}
-John Tirman. “{{% resource_link "d769f1e7-1502-4f36-9ac3-759f9cf067ed" "On Immigration and Terrorism" %}}” *Election Insights*, 2016.
+John Tirman. “[On Immigration and Terrorism](http://shass.mit.edu/news/news-2016-election-insights-john-tirman-immigration-and-terrorism)” *Election Insights*, 2016.
 {{< tdclose >}}{{< tdopen >}}
 *No supplemental material*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -247,7 +247,7 @@ John Tirman. “{{% resource_link "d769f1e7-1502-4f36-9ac3-759f9cf067ed" "On Imm
 {{< tdclose >}}{{< tdopen >}}
 Bald, Vivek. Chapters 1 and 2 in *Bengali Harlem and the Lost History of South Asian America*. Harvard University Press, 2013. ISBN: 9780674503854.
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "b8b27b60-8896-4616-89e8-dd512d5df5ff" "The hidden history of Bengali Harlem" %}}
+[The hidden history of Bengali Harlem](http://news.mit.edu/2013/vivek-bald-hidden-history-of-bengali-harlem-0107)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19: Dr. Nora Jackson: Workshop on critical argumentation and working with sources
 {{< tdclose >}}{{< tdopen >}}
@@ -258,7 +258,7 @@ Bald, Vivek. Chapters 1 and 2 in *Bengali Harlem and the Lost History of South 
 20: Guest lecture: Professor Vince Brown (Harvard History) An immigration debate in 18th century America
 {{< tdclose >}}{{< tdopen >}}
 
-"{{% resource_link "8d7a02ce-f2b2-4372-b267-14f7be6565f0" "An Immigration Debate in Eighteenth-Century America" %}}," *Common-Place* 9, no. 3 April 2009.
+"[An Immigration Debate in Eighteenth-Century America](https://www.academia.edu/20555012/_An_Immigration_Debate_in_Eighteenth-Century_America_Common-Place_vol._9_no._3_April_2009_http_www.common-place-archives.org_vol-09_no-03_blurbs_)," *Common-Place* 9, no. 3 April 2009.
 
 "Essay concerning Slavery and the Danger JAMAICA Is expos'd to from the Too great Number of Slaves and the too little Care that is taken to manage Them, and a Proposal to prevent the further Importation of Negroes into that Is." London: Charles Corbett, 1746, pp. 31–32.
 
@@ -278,7 +278,7 @@ Finegan & Rickford, eds., *Language in the USA: Themes for the Twenty-First Cent
 
 Roberts, Peter A. *From Oral to Literate Culture: Colonial Experience in the English West Indies.* Kingston, Jamaica: Press University of the West Indies, 1997. pp 236–278.
 
-DeGraff, Michel. "{{% resource_link "b0bc0bd9-2d4e-44cd-9ccf-ce8329d7da5e" "Linguists' Most Dangerous Myth: The Fallacy of Creole Exceptionalism" %}}." *Language in Society* (2005): 533–591.
+DeGraff, Michel. "[Linguists' Most Dangerous Myth: The Fallacy of Creole Exceptionalism](http://www.jstor.org/stable/4169447?seq=1#page_scan_tab_contents)." *Language in Society* (2005): 533–591.
 
 Optional:
 
@@ -290,7 +290,7 @@ Devonish, Hubert. *Language and Liberation: Creole Language Politics in the Cari
 23: Guest lecture/workshop: Dr. Lourdes Aleman (MIT Office of Digital Learning) Identity, mindset and the psychology of change (part 1)
 {{< tdclose >}}{{< tdopen >}}
 
-Inzlicht, Michael, Catherine Good, S. Levin, and C. van Laar. "{{% resource_link "d91e8eff-9ff0-4110-9670-a2eeb07f1b74" "How Environments Can Threaten Academic Performance, Self-Knowledge, and Sense of Belonging (PDF)" %}}." In *Stigma and Group Inequality: Social Psychological Perspectives*. Erlbaum and Associates, 2006, pp. 129–150.
+Inzlicht, Michael, Catherine Good, S. Levin, and C. van Laar. "[How Environments Can Threaten Academic Performance, Self-Knowledge, and Sense of Belonging (PDF)](http://users.nber.org/~sewp/events/2005.01.14/Bios+Links/Good-rec3-Inzlicht_&_Good_Sept_8.pdf)." In *Stigma and Group Inequality: Social Psychological Perspectives*. Erlbaum and Associates, 2006, pp. 129–150.
 
 Walton, Gregory M. "The Myth of Intelligence: Smartness Isn’t Like Height." *Education, Justice, and Democracy* (2013): 155–72.
 
@@ -300,13 +300,13 @@ Walton, Gregory M. "The Myth of Intelligence: Smartness Isn’t Like Height." *E
 24: Guest lecture/workshop: Dr. Lourdes Aleman (MIT Office of Digital Learning) Identity, mindset and the psychology of change (part 2)
 {{< tdclose >}}{{< tdopen >}}
 
-“{{% resource_link "09a1a434-8fe8-4e6f-a56f-85407b447400" "7 Things Growth Mindset Is Not" %}}.” *Turnaround for Children*. 2016.
+“[7 Things Growth Mindset Is Not](https://www.turnaroundusa.org/7-things-growth-mindset-is-not/).” *Turnaround for Children*. 2016.
 
-Dweck, Carol S. "{{% resource_link "dbad2c53-4453-4f6a-83c0-ef4382c05c3a" "Mindsets and Human Nature: Promoting Change in the Middle East, the Schoolyard, the Racial Divide, and Willpower." %}}" *American Psychologist* 67, no. 8 (2012): 614.
+Dweck, Carol S. "[Mindsets and Human Nature: Promoting Change in the Middle East, the Schoolyard, the Racial Divide, and Willpower.](http://psycnet.apa.org/journals/amp/67/8/614/)" *American Psychologist* 67, no. 8 (2012): 614.
 
 *Optional:*
 
-Carr, Priyanka B., Aneeta Rattan, and Carol S. Dweck. "{{% resource_link "3f162504-70cf-4b67-8e88-d56e21f5a47c" "3 Implicit Theories Shape Intergroup Relations (PDF)" %}}." *Advances in Experimental Social Psychology* 45 (2012): 127.
+Carr, Priyanka B., Aneeta Rattan, and Carol S. Dweck. "[3 Implicit Theories Shape Intergroup Relations (PDF)](http://faculty.london.edu/arattan/main/CV_files/Carr%20Rattan%20Dweck%20(2012).pdf)." *Advances in Experimental Social Psychology* 45 (2012): 127.
 
 {{< tdclose >}}{{< tdopen >}}
 *No supplemental material*
@@ -330,12 +330,12 @@ Carr, Priyanka B., Aneeta Rattan, and Carol S. Dweck. "{{% resource_link "3f1625
 
 Freire, Paulo, and Donaldo Macedo. *Literacy: Reading the Word and the World.* Routledge, 2005, pp. 32–41, 98–110. ISBN: 9780897891264.
 
-"{{% resource_link "b83caa4d-cb3d-4d49-a55d-f7ca187b8164" "Haiti’s ‘Linguistic Apartheid’ Violates Children’s Rights and Hampers Development." %}}” 2017. openDemocracy. Accessed January 30 2017.
+"[Haiti’s ‘Linguistic Apartheid’ Violates Children’s Rights and Hampers Development.](https://www.opendemocracy.net/openglobalrights/michel-degraff/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-)” 2017. openDemocracy. Accessed January 30 2017.
 
 {{< tdclose >}}{{< tdopen >}}
 
-Michel DeGraff and Kendy Verilus: "{{% resource_link "f992d55b-206e-4c12-b278-3c8068284d57" "MIT-Haiti Initiative: Opening up education in Haiti" %}}." 2015 NSF Video Showcase.
+Michel DeGraff and Kendy Verilus: "[MIT-Haiti Initiative: Opening up education in Haiti](http://resourcecenters2015.videohall.com/presentations/519)." 2015 NSF Video Showcase.
 
-Miller, Haynes. "{{% resource_link "8214e90f-3d7f-4779-b376-643e56c1c77e" "The MIT-Haiti Initiative: An International Engagement" %}}." *MIT Faculty Newsletter* 24, no. 1 (September/October 2016).
+Miller, Haynes. "[The MIT-Haiti Initiative: An International Engagement](http://web.mit.edu/fnl/volume/291/miller.html)." *MIT Faculty Newsletter* 24, no. 1 (September/October 2016).
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

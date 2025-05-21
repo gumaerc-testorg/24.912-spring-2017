@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: First essay guidelines for 24.912 Black Matters S17
-file: /ol-ocw-studio-app/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/7e0463a42499133f065d7c28de59e1d7_MIT24_912s17_essay1.pdf
+file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/7e0463a42499133f065d7c28de59e1d7_MIT24_912s17_essay1.pdf
 file_size: 118677
 file_type: application/pdf
 learning_resource_types:

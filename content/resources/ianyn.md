@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Cover of I am Not Your Negro by Raoul Peck
-file: /ol-ocw-studio-app/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/e81f64b712a0fd1aa67584665de663a7_ianyn.jpg
+file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/e81f64b712a0fd1aa67584665de663a7_ianyn.jpg
 file_size: 819014
 file_type: image/jpeg
 image_metadata:

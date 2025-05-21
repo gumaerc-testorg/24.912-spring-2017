@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/6277496f9515438bd5499a846195bcd1_MIT24_912s17_chomsky_neolib.pdf
+file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/6277496f9515438bd5499a846195bcd1_MIT24_912s17_chomsky_neolib.pdf
 file_size: 139485
 file_type: application/pdf
 learning_resource_types:

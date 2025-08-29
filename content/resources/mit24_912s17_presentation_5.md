@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student presentation for 24.912 S17
-file: /courses/24-912-black-matters-introduction-to-black-studies-spring-2017/cf98b77fc59104523de8a07a2512e77f_MIT24_912S17_presentation_5.pdf
+file: /ol-ocw-studio-app/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/cf98b77fc59104523de8a07a2512e77f_MIT24_912S17_presentation_5.pdf
 file_size: 1104501
 file_type: application/pdf
 learning_resource_types: []

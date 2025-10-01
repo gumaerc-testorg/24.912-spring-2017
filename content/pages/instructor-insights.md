@@ -51,7 +51,7 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 
 CI-H ![](/images/educator/icon-question-cih.png)
 
-This course can be applied toward a Bachelor of Science in [Women’s and Gender Studies](http://wgs.mit.edu/degree-requirements/), but is not required.
+This course can be applied toward a Bachelor of Science in {{% resource_link "62676289-03da-4658-a4ab-c41533354680" "Women’s and Gender Studies" %}}, but is not required.
 
 ### Offered
 
